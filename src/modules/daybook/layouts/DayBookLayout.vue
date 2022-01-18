@@ -21,3 +21,9 @@ export default {
   },
 };
 </script>
+<style lang="scss" scoped>
+.col-4 {
+  flex: 0 0 auto;
+  width: 22.333333%;
+}
+</style>
